@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Nitin and I'm a Software Engineer. I'm from India. I'm a Java/Scala developer looking to learn more :smiley:
+I'm Nitin and I'm a Software Engineer from India. I'm a Java/Scala developer looking to learn more :smiley:
 
 ## Technology and Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
